@@ -3,9 +3,14 @@ Microsoft Windows screensaver, simulating and displaying the principle of bivari
 
 $$r_{xy}=\frac{\overline{xy}-(\overline x ⋅\overline y)}{n⋅ \sigma_x⋅\sigma_y},$$
 
-as part of the SCHRAUSSER-MAT tool compilation (c.f. Schrausser, 2022, p. 38). 
+as part of the SCHRAUSSER-MAT tool compilation (c.f. Schrausser, 2022, p. 38).
+
+In context of the historical development of the *correlation coefficient* see also Bravais (1844) and Galton (1877).
 
 ## References
+
+Bravais, A. (1844). *Analyse Mathematique. Sur les probabilités des erreurs de situation d’un point*. Paris: Imprimerie Royale.
+https://books.google.com/books/about/Analyse_math%C3%A9matique_sur_les_probabilit.html?id=7g_hAQAACAAJ
 
 Pearson, K. (1904). *Mathematical contributions to the theory of evolution. XIII. On the Theory of Contingency and its Relation to Association and Normal Correlation. Drapers’ Company research memoirs. Biometric Series, I. Department of Applied Mathematics*. University College, University of London: Dulau & Co. https://openlibrary.org/books/OL24168960M.
 
