@@ -10,7 +10,9 @@ In context of the historical development of the *correlation coefficient* see al
 ## References
 
 Bravais, A. (1844). *Analyse Mathematique. Sur les probabilités des erreurs de situation d’un point*. Paris: Imprimerie Royale.
-https://books.google.com/books/about/Analyse_math%C3%A9matique_sur_les_probabilit.html?id=7g_hAQAACAAJ
+https://books.google.com/books/about/Analyse_math%C3%A9matique_sur_les_probabilit.html?id=7g_hAQAACAAJ.
+
+Galton, F. (1877). Typical Laws of Heredity 1. *Nature 15*: 492–95. https://doi.org/10.1038/015492a0.
 
 Pearson, K. (1904). *Mathematical contributions to the theory of evolution. XIII. On the Theory of Contingency and its Relation to Association and Normal Correlation. Drapers’ Company research memoirs. Biometric Series, I. Department of Applied Mathematics*. University College, University of London: Dulau & Co. https://openlibrary.org/books/OL24168960M.
 
